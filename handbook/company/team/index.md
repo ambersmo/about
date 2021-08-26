@@ -1371,3 +1371,10 @@ To add yourself to this page:
 - GitHub: [GregBouton](https://github.com/GregBouton)
 - [greg.bouton@sourcegraph.com](mailto:greg.bouton@sourcegraph.com), [LinkedIn](https://www.linkedin.com/in/gregbouton/)
 - Greg was born and raised in New York, moved up to Boston for college, and (much to the dismay of his family and friends) planted his roots on the North Shore of Massachusetts. He loves spending time with his wife and daughter (our two dogs and one cat too!). He also enjoys traveling, golfing, snowboarding, and pretty much all sports. Greg has been in the email, marketing automation, and demand generation spaces for over a decade where he's built effective customer and prospect-focused B2B and B2C campaigns.
+
+## Amber Smokowski
+
+- Executive Business Partner to VP of Sales and VP of Marketing
+- From Longmont, CO, USA currently living in Boston, MA, USA
+- GitHub: @ambersmo
+- [amber.smokowski@sourcegraph.com](mailto:amber.smokowski@sourcegraph.com)
